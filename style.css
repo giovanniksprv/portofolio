@@ -194,9 +194,8 @@ body {
 
 .hero-img-main {
   position: absolute;
-  top: 25px; right: 130px;
-  width: 355px; height: 590px;
-  object-fit: cover;
+  top: 25px;
+  right: 5%;
 }
 .hero-img-bl {
   position: absolute;
